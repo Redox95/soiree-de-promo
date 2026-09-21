@@ -1,3 +1,4 @@
 liste de courses > courses.txt
 echo - chips
 - jus de pomme
+- pizza
