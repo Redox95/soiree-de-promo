@@ -4,3 +4,4 @@ echo - chips
 - pizza
 -gâteau au chocolat
 -glaçons
+-serviettes
