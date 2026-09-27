@@ -1,0 +1,7 @@
+# Ce que Git doit ignorer
+code-wifi.txt
+brouillon.txt
+liste.tmp
+*.tmp >> .gitignore
+cat .gitignore
+echo *.tmp
